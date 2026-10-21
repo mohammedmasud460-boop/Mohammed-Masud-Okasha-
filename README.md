@@ -21,8 +21,8 @@ Skilled at working with AI: using AI assistants and tools in day-to-day developm
 
 ## 🚀 Featured Projects
 
-- **[my-portfolio](https://github.com/mohammedmasud460-boop/my-portfolio)** — A responsive personal portfolio website.
-- **[sessione](https://github.com/mohammedmasud460-boop/sessione)** — A live sessions app.
-- **[shahadati](https://github.com/mohammedmasud460-boop/shahadati)** — A certificates platform.
+- **[my-portfolio](https://github.com/okasha-fulldev/my-portfolio)** — A responsive personal portfolio website. [Live site](https://okasha-fulldev.github.io/my-portfolio/)
+- **[sessione](https://github.com/okasha-fulldev/sessione)** — A live sessions app.
+- **[shahadati](https://github.com/okasha-fulldev/shahadati)** — A certificates platform. [Live demo](https://okasha-fulldev.github.io/shahadati/)
 
 > Some of my work is private because it is built for clients.
